@@ -60,7 +60,7 @@ header{
 }
  
 .menu:hover{
-  background-color: #444;
+  background-color: lightskyblue;
 }
 .menu:hover .submenu {
   display: block;
